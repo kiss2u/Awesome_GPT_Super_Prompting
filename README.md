@@ -91,6 +91,7 @@ Resources focused on exploiting or defending against prompt injections.
 - [FonduAI/awesome-prompt-injection](https://github.com/FonduAI/awesome-prompt-injection) - Awesome list of resources on prompt injection.
 - [TakSec/Prompt-Injection-Everywhere](https://github.com/TakSec/Prompt-Injection-Everywhere) - Guide to prompt injection in various systems.
 - [yunwei37/prompt-hacker-collections](https://github.com/yunwei37/prompt-hacker-collections) - Collection of prompt hacking methods and exploits.
+- [PromptTrace](https://prompttrace.airedlab.com) is a free, hands-on AI security training platform for practicing prompt injection, RAG poisoning, and tool exploitation against real LLMs.
 - [AdverserialAttack-InjectionPrompt](https://github.com/Moaad-Ben/AdverserialAttack-InjectionPrompt) - Adversarial attacks through prompt injections.
 
 ---
